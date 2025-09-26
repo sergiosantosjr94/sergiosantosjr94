@@ -15,7 +15,7 @@ I was soon promoted to a developer, building API integrations with marketplaces 
 Recently, I transitioned to the modern JavaScript ecosystem, diving deep into technologies like Next.js, TypeScript, React, Prisma, Drizzle, PostgreSQL, and more. I’ve already built and shipped real-world applications that demonstrate my ability to solve problems and deliver value through code.
 
 
-## 🎓  Lifelong Learner & Educator
+## 🎓  Lifelong Learner
 
 [](#--lifelong-learner--educator-)
 
